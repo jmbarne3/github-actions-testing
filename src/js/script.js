@@ -3,6 +3,7 @@
 
 const main = () =>  {
   console.log('Hello World');
+  console.log('Let it rain!');
 };
 
 main();
