@@ -1,0 +1,22 @@
+.DS_Store
+.idea
+*.pyc
+settings_local.py
+*.db
+db.sqlite3
+*.log
+
+# Bower
+static/*
+
+# Sass stuff
+.sass-cache/
+typings
+
+# Gulp
+node_modules/*
+
+# developer specific settings
+gulp-config.json
+
+*.egg-info
