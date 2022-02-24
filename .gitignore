@@ -6,9 +6,6 @@ settings_local.py
 db.sqlite3
 *.log
 
-# Bower
-static/*
-
 # Sass stuff
 .sass-cache/
 typings
