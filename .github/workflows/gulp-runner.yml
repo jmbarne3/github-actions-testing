@@ -4,7 +4,7 @@ name: Run gulp tasks
 on:
   push:
     # On which branch
-    branches: ["master"]
+    branches: ["main"]
     # On which files
     paths: ["scripts/scripts.js", "styles/styles.scss"]
 
